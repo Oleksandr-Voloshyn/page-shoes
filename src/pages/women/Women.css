@@ -1,0 +1,94 @@
+.block-women {
+    display: flex;
+}
+.block-image{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+   margin-top: 90px;
+}
+.shoes-home {
+    width: 444px;
+    height: 444px;
+    border-radius: 5px;
+    
+}
+.block-shoes{
+    float: left; 
+}
+.shoes {
+    margin: 15px;
+    width: 87px;
+    height: 86px;
+}
+.border{
+    outline: 3px solid #D08750;
+    /* z-index: 1; */
+}
+.active{
+    background-color: gray;
+    /* opacity: .2; */
+    /* z-index: 5; */
+}
+
+.block-text{
+    margin: 150px 55px;
+}
+.block-info{
+    width: 423px;
+    
+}
+
+.block-counter{
+    display: flex;
+    margin-top: 20px;
+}
+.counter{
+    background-color: grey;
+    width: 150px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: #F7F8FD;
+    
+    margin-right: 10px;
+}
+.counte {
+    padding: 0 30px 0 30px;
+    border: none;
+}
+
+.add-card {
+    width: 270px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #FF7D1B;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+.women-basket {
+    fill: white;
+    padding-right: 15px;
+}
+
+h1{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 40px;
+}
+h3{
+    font-family: 'Kumbh Sans', sans-serif;
+    color: #D7874A;
+    font-size: 15px;
+}
+
+p{
+    color: #6B6C70;
+}
+
+.cursor{
+    cursor: pointer;
+}

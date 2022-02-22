@@ -1,0 +1,68 @@
+.fon{
+    background-color: rgba(100,100,100,0.8);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.block-img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.rozmir-image{
+    width: 550px;
+    height: 550px;
+}
+.aaa {
+    width: 100%;
+    height: 100%;
+   
+}
+.block-aaa{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.shoes-a {
+    width: 87px;
+    height: 86px;
+}
+.action-a{
+    outline: 3px solid #D08750;
+    background-color: gray;
+    opacity: 0.2;
+}
+.button-next{
+    position:absolute;
+    top: 45%;
+    right: -27px;
+    width: 56px;
+    height: 56px;
+    border-radius: 28px;
+    border: none;
+    cursor: pointer;
+}
+.button-back{
+    position:absolute;
+    top: 45%;
+    left:-27px;
+    width: 56px;
+    height: 56px;
+    border-radius: 28px;
+    border: none;
+    cursor: pointer;
+}
+
+.image-clouse{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    right: 0;
+    top: -50px;
+}

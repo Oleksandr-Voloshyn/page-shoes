@@ -1,0 +1,22 @@
+.header {
+    height: 100px;
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #EDEDEF;
+    display: flex;
+    align-items: center;
+    position: relative; 
+}
+.logo {
+    margin-right: 60px;
+}
+
+a {
+    text-decoration: none;
+    margin-right: 30px;
+    color: grey;
+    
+}
+.active {
+    color: black;
+    text-decoration: underline;
+}

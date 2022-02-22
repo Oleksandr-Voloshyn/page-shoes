@@ -1,0 +1,61 @@
+.iconBasket {
+    float: right; 
+    margin-right: 100px;
+    position: absolute;
+    right: 0;
+}
+
+.list-goods{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+    width: 360px;
+    position: absolute;
+    right: -80px;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.basket-image-shoes{
+    width: 50px;
+    height: 50px;
+    margin-right: 17px;
+    border-radius: 3px;
+}
+.basket-image-shoes{
+    background-color: white;
+}
+.empty-basket{
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+
+
+.card{
+    margin: 30px;
+}
+
+.block-basket-info{
+    display: flex;
+    margin: 20px;
+}
+
+.button-checkut{
+    background-color: #FF7D1B;
+    border: none;
+    margin: 20px;
+    height: 55px;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 15px;
+}
+.icon-delete{
+    width: 20px;
+    height: 20px;
+    margin-top: 7px;
+    margin-left: 10px;
+}
